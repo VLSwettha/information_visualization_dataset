@@ -1,0 +1,33 @@
+winner,win_location,win_count,win_percentage
+Africa XI,Away,1,100.0
+Asia XI,Away,1,100.0
+Australia,Away,106,58.88888888888889
+Australia,Home,74,41.11111111111111
+Bangladesh,Away,6,60.0
+Bangladesh,Home,4,40.0
+Canada,Away,1,100.0
+England,Away,52,59.09090909090909
+England,Home,36,40.909090909090914
+ICC World XI,Away,1,100.0
+India,Away,107,66.875
+India,Home,53,33.125
+Kenya,Away,9,75.0
+Kenya,Home,3,25.0
+Match tied,Away,11,100.0
+Match tied (D/L method),Away,1,100.0
+Netherlands,Away,1,100.0
+New Zealand,Away,55,54.45544554455446
+New Zealand,Home,46,45.54455445544555
+No result,Away,2,100.0
+Pakistan,Away,134,77.01149425287356
+Pakistan,Home,40,22.988505747126435
+Pakistan awarded the match (opposition conceded),Away,1,100.0
+South Africa,Away,97,54.80225988700565
+South Africa,Home,80,45.19774011299435
+Sri Lanka,Away,87,56.86274509803921
+Sri Lanka,Home,66,43.13725490196079
+U.A.E.,Away,1,100.0
+West Indies,Away,65,68.42105263157895
+West Indies,Home,30,31.57894736842105
+Zimbabwe,Away,45,69.23076923076923
+Zimbabwe,Home,20,30.76923076923077
