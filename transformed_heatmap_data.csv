@@ -1,0 +1,1237 @@
+team1,team2,team1_won_toss,team1_bat_first,team1_field_first,team1_home,team2_won_toss,team2_bat_first,team2_field_first,team2_home,margin_type_runs,margin_type_wickets,toss,bat_first,home,outcome_label,count
+West Indies,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,England,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,United Arab Emirates,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Netherlands,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+United Arab Emirates,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Netherlands,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Kenya,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+United Arab Emirates,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Netherlands,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,United Arab Emirates,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Netherlands,United Arab Emirates,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Netherlands,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,Kenya,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,New Zealand,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,True,1,0,1,False,0,1,0,0,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Pakistan,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Kenya,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,True,0,1,0,False,0,1,0,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,India,True,0,1,0,False,0,1,0,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,England,True,1,0,1,False,0,1,0,0,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Bangladesh,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,True,1,0,1,False,0,1,0,0,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Kenya,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,New Zealand,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,Bangladesh,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Kenya,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,New Zealand,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,England,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Zimbabwe,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,South Africa,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,West Indies,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,England,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Bangladesh,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Kenya,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,False,0,1,0,True,0,1,0,0,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Scotland,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Scotland,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Kenya,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Scotland,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Scotland,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Kenya,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Scotland,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,False,0,1,0,True,0,1,0,0,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Kenya,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Kenya,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,England,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Bangladesh,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,New Zealand,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,England,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Australia,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,New Zealand,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,West Indies,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Australia,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,West Indies,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,West Indies,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Pakistan,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,England,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Pakistan,False,1,0,1,True,0,1,0,0,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,New Zealand,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Sri Lanka,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Kenya,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Kenya,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Kenya,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Kenya,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Kenya,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Zimbabwe,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Australia,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,South Africa,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Australia,True,1,0,1,False,0,1,0,0,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Australia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,West Indies,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,England,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Sri Lanka,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Kenya,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Netherlands,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Netherlands,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Bangladesh,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,India,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Kenya,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Kenya,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,Australia,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,South Africa,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Namibia,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Canada,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Netherlands,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Canada,Kenya,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Netherlands,England,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Namibia,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Canada,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Namibia,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Netherlands,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Canada,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Namibia,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Netherlands,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,England,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Namibia,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Canada,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Netherlands,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Canada,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Netherlands,Namibia,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,True,0,1,0,False,1,0,1,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Kenya,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Kenya,Zimbabwe,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Kenya,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Sri Lanka,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Sri Lanka,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Australia,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Sri Lanka,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Zimbabwe,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Zimbabwe,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,South Africa,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Australia,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Australia,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,New Zealand,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,New Zealand,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,West Indies,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Pakistan,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,West Indies,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Australia,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,New Zealand,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Zimbabwe,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,India,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,England,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,England,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Bangladesh,West Indies,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Bangladesh,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Australia,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,New Zealand,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,New Zealand,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,New Zealand,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Hong Kong,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,United Arab Emirates,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Bangladesh,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,United Arab Emirates,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Hong Kong,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Bangladesh,India,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Pakistan,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,India,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,South Africa,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,South Africa,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,India,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,England,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,United States of America,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Kenya,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,South Africa,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+United States of America,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Kenya,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,Bangladesh,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Sri Lanka,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,West Indies,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,West Indies,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,West Indies,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,Sri Lanka,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Pakistan,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,New Zealand,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Zimbabwe,England,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Zimbabwe,England,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,New Zealand,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Bangladesh,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+ICC World XI,Asia XI,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,Australia,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Pakistan,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,Australia,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,Pakistan,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Zimbabwe,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,Bangladesh,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,South Africa,False,0,1,0,True,1,0,1,0,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+South Africa,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+South Africa,Zimbabwe,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Zimbabwe,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Pakistan,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Pakistan,India,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,South Africa,True,1,0,1,False,0,1,0,0,1,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+West Indies,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+West Indies,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+West Indies,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Pakistan,West Indies,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,West Indies,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,Bangladesh,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Bangladesh,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Bangladesh,England,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Australia,False,0,1,0,True,0,1,0,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,England,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+England,Australia,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,West Indies,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+India,Sri Lanka,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+West Indies,Sri Lanka,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,West Indies,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Africa XI,Asia XI,False,0,1,0,True,0,1,0,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Asia XI,Africa XI,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Africa XI,Asia XI,True,0,1,0,False,0,1,0,0,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+New Zealand,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,India,True,0,1,0,False,0,1,0,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Zimbabwe,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,Zimbabwe,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,Bangladesh,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+New Zealand,India,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Bangladesh,Sri Lanka,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Zimbabwe,India,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+India,New Zealand,True,0,1,0,False,0,1,0,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,ICC World XI,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,ICC World XI,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Australia,ICC World XI,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,South Africa,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,Sri Lanka,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+Sri Lanka,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+South Africa,New Zealand,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+New Zealand,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+New Zealand,South Africa,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,Sri Lanka,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Sri Lanka,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Sri Lanka,India,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+India,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+India,South Africa,False,1,0,1,True,0,1,0,0,1,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+South Africa,India,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,1,0,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+Australia,New Zealand,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Australia,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
+England,Pakistan,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+England,Pakistan,True,0,1,0,False,1,0,1,0,1,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Pakistan,England,False,1,0,1,True,0,1,0,1,0,Team 2 Won Toss,Team 1 Bat First,Team 1 Home,Team 2 Wins,1
+Pakistan,England,True,1,0,1,False,0,1,0,1,0,Team 1 Won Toss,Team 1 Bat First,Team 1 Home,Team 1 Wins,1
+England,Pakistan,True,0,1,0,False,1,0,1,1,0,Team 1 Won Toss,Team 2 Bat First,Team 2 Home,Team 1 Wins,1
+Sri Lanka,New Zealand,False,0,1,0,True,1,0,1,0,1,Team 2 Won Toss,Team 2 Bat First,Team 2 Home,Team 2 Wins,1
