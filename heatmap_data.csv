@@ -1,0 +1,33 @@
+value_x,value_y,matches,wins,constraint_x,constraint_y
+False,False,351,165,Toss Won,Home
+False,True,152,77,Toss Won,Home
+True,False,507,238,Toss Won,Home
+True,True,224,125,Toss Won,Home
+False,False,152,77,Toss Won,Away
+False,True,351,165,Toss Won,Away
+True,False,224,125,Toss Won,Away
+True,True,507,238,Toss Won,Away
+False,False,503,242,Toss Won,Bat First
+True,True,731,363,Toss Won,Bat First
+False,True,503,242,Toss Won,Field First
+True,False,731,363,Toss Won,Field First
+False,True,858,403,Home,Away
+True,False,376,202,Home,Away
+False,False,351,165,Home,Bat First
+False,True,507,238,Home,Bat First
+True,False,152,77,Home,Bat First
+True,True,224,125,Home,Bat First
+False,False,507,238,Home,Field First
+False,True,351,165,Home,Field First
+True,False,224,125,Home,Field First
+True,True,152,77,Home,Field First
+False,False,152,77,Away,Bat First
+False,True,224,125,Away,Bat First
+True,False,351,165,Away,Bat First
+True,True,507,238,Away,Bat First
+False,False,224,125,Away,Field First
+False,True,152,77,Away,Field First
+True,False,507,238,Away,Field First
+True,True,351,165,Away,Field First
+False,True,503,242,Bat First,Field First
+True,False,731,363,Bat First,Field First
